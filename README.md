@@ -1,7 +1,4 @@
 # LeetCode
-
-[![Travis](https://p.ipic.vip/k4pv1r.jpg)]() [![Travis](https://p.ipic.vip/32nfgh.jpg)]() [![Travis](https://p.ipic.vip/4a36ao.jpg)]() [![Travis](https://p.ipic.vip/fd1f82.jpg)]() [![Travis](https://p.ipic.vip/mhz5uy.jpg)]() [![Travis](https://p.ipic.vip/gp1hvz.jpg)]()
-
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我) [![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我) [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://p.ipic.vip/pj4t8y.jpg) [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://p.ipic.vip/n9co7k.jpg) [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://p.ipic.vip/m7g3to.jpg)
 
 简体中文 | [English](./README.en.md)
